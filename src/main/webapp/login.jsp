@@ -7,6 +7,7 @@
 <title>LOGIN PAGE !</title>
 </head>
 <body>
+<h1>Login Page</h1>
 <form action="log">
 
 id : 
