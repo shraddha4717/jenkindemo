@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>LOGIN PAGE</title>
+<title>LOGIN PAGE !</title>
 </head>
 <body>
 <form action="log">
